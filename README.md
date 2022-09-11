@@ -20,9 +20,7 @@ The report contains -
 - Flowchart of the functioning
 - Code
 - Limitations
-- Screenshots of simulation design
 
-<a href="https://github.com/kunal-mohta/Microprocessor-Assignment/blob/master/report.pdf" target="_blank">View Report</a>
 
 ## Problems faced
 
